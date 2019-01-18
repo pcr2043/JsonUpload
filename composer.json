@@ -1,5 +1,5 @@
 {
-    "name": "Pat/JsonUpload",
+    "name": "pat/jsonupload",
     "description": "Allows to Save files on database using json field in Laravel Framework",
     "type": "library",
     "license": "free",

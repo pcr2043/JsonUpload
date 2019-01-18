@@ -2,7 +2,7 @@
     "name": "pat/jsonupload",
     "description": "Allows to Save files on database using json field in Laravel Framework",
     "type": "library",
-    "license": "free",
+    "license": "GPL-2.0-only",
     "authors": [
         {
             "name": "Patrick CR",
